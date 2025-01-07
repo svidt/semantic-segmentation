@@ -1,2 +1,3 @@
 # semantic-segmentation
-Detection Transformer (DETR) for panoptic semantic segmentation. Work in progress.
+Work in progress
+Detection Transformer (DETR) for panoptic semantic segmentation.
